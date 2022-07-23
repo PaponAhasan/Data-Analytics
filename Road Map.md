@@ -4,3 +4,6 @@
 - [Data....](https://stackabuse.com/)
 - [data-visualization-with-python](https://www.geeksforgeeks.org/data-visualization-with-python/)
 - https://www.geeksforgeeks.org/python-introduction-matplotlib/
+- [w3schools](https://www.w3schools.com/)
+- [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+
