@@ -8,4 +8,5 @@
 - [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 - [image-preprocessing](https://www.section.io/engineering-education/image-preprocessing-in-python/)
 - [tensorflow cnn](https://www.tensorflow.org/tutorials/images/cnn)
+- [keras](https://keras.io/about/)
 
