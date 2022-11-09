@@ -9,4 +9,6 @@
 - [image-preprocessing](https://www.section.io/engineering-education/image-preprocessing-in-python/)
 - [tensorflow cnn](https://www.tensorflow.org/tutorials/images/cnn)
 - [keras](https://keras.io/about/)
+- *[Deep Learning With Tensorflow 2.0, Keras and Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
+- *[Machine Learning Tutorial Python ](https://www.youtube.com/watch?v=fwY9Qv96DJY&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw&index=7)
 
